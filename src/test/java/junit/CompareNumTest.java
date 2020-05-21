@@ -31,7 +31,7 @@ public class CompareNumTest {
 	@Test
 	public void isLesserTest() {
 		System.out.println("Lesser number is validated");
-		assertTrue("Num 1 is lesser than Num 2", CompareNum.isLesser(2, 3));
+		assertTrue("Num 1 is lesser than Num 2", CompareNum.isLesser(2, 5));
 	}
 
 	

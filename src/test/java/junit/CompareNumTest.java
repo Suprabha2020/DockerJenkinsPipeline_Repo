@@ -38,7 +38,7 @@ public class CompareNumTest {
 	@Test
 	public void isEqualTest() {
 		System.out.println("Equal numbers are validated");
-		assertTrue("Num 1 is equal to Num 2", CompareNum.isEqual(6, 6));
+		assertTrue("Num 1 is equal to Num 2", CompareNum.isEqual(8, 8));
 	}
 
 	@After
